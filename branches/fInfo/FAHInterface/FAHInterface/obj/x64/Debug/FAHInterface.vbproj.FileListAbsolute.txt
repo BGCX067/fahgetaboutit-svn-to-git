@@ -1,0 +1,16 @@
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\FAHInterface.dll
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\FAHInterface.pdb
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\FAHInterface.xml
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\Newtonsoft.Json.Net35.dll
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\Newtonsoft.Json.Net35.pdb
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\bin\x64\Debug\Newtonsoft.Json.Net35.xml
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\FAHInterface.Resources.resources
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\FAHInterface.dll
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\FAHInterface.xml
+E:\REPOSITORY\fInfo\FAHInterface\FAHInterface\obj\x64\Debug\FAHInterface.pdb
+E:\REPOSITORY\fInfo\Release\FAHInterface.dll
+E:\REPOSITORY\fInfo\Release\FAHInterface.pdb
+E:\REPOSITORY\fInfo\Release\FAHInterface.xml

@@ -1,0 +1,98 @@
+H:\cftUnity\ucHWM\bin\x86\Debug\ucHWM.dll
+H:\cftUnity\ucHWM\bin\x86\Debug\HWInfo.dll
+H:\cftUnity\ucHWM\bin\x86\Debug\OpenHardwareMonitorLib_mod.dll
+H:\cftUnity\ucHWM\bin\x86\Debug\Settings.dll
+H:\cftUnity\ucHWM\bin\x86\Debug\gpuInfo.dll
+H:\cftUnity\ucHWM\bin\x86\Debug\OpenHardwareMonitorLib_mod.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\Settings.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\Settings.xml
+H:\cftUnity\ucHWM\bin\x86\Debug\HWInfo.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\HWInfo.xml
+H:\cftUnity\ucHWM\bin\x86\Debug\gpuInfo.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\gpuInfo.xml
+H:\cftUnity\ucHWM\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.DiagGaugeSettings.resources
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.frmFloat.resources
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.Resources.resources
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.ucHWM.resources
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.mtmGauge.resources
+H:\cftUnity\ucHWM\obj\x86\Debug\ResGen.read.1.tlog
+H:\cftUnity\ucHWM\obj\x86\Debug\ResGen.write.1.tlog
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.dll
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.xml
+H:\cftUnity\ucHWM\obj\x86\Debug\ucHWM.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\ucHWM.pdb
+H:\cftUnity\ucHWM\bin\x86\Debug\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\ucHWM.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\OpenHardwareMonitorLib_mod.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\Settings.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\Settings.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\Settings.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.DiagGaugeSettings.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.frmFloat.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.Resources.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.ucHWM.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.mtmGauge.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\obj\x86\Debug\ucHWM.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\HWInfo.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\gpuInfo.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\HWInfo.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\HWInfo.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\gpuInfo.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\ucHWM\bin\x86\Debug\gpuInfo.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\ucHWM.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\HWInfo.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\OpenHardwareMonitorLib_mod.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\Settings.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\gpuInfo.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\HWInfo.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\HWInfo.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\Settings.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\Settings.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\gpuInfo.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\bin\x86\Debug\gpuInfo.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\Debug location\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\Debug location\ucHWM.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\Paint test\Debug location\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\Debug location\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\Debug location\ucHWM.pdb
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\Debug location\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.DiagGaugeSettings.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.frmFloat.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.Resources.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.ucHWM.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.mtmGauge.resources
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.dll
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.xml
+C:\Users\Huiskamer\Documents\Visual Studio 2010\Projects\cftUnity.nl\ucHWM\obj\x86\Debug\ucHWM.pdb
+E:\REPOSITORY\fInfo\Debug location\WinRing0.sys
+E:\REPOSITORY\fInfo\Debug location\WinRing0x64.sys
+E:\REPOSITORY\fInfo\Debug location\WinRing0.dll
+E:\REPOSITORY\fInfo\Debug location\WinRing0x64.dll
+E:\REPOSITORY\fInfo\Debug location\OpenHardwareMonitorLib.dll
+E:\REPOSITORY\fInfo\Debug location\ucHWM.dll
+E:\REPOSITORY\fInfo\Debug location\ucHWM.pdb
+E:\REPOSITORY\fInfo\Debug location\ucHWM.xml
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.DiagGaugeSettings.resources
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.frmFloat.resources
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.Resources.resources
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.ucHWM.resources
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.mtmGauge.resources
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.dll
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.xml
+E:\REPOSITORY\fInfo\ucHWM\obj\x86\Debug\ucHWM.pdb

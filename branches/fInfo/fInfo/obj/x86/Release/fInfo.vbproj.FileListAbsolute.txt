@@ -1,0 +1,12 @@
+E:\REPOSITORY\fInfo\Release\fInfo.exe.config
+E:\REPOSITORY\fInfo\Release\fInfo.exe
+E:\REPOSITORY\fInfo\Release\fInfo.pdb
+E:\REPOSITORY\fInfo\Release\fInfo.xml
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\fInfo.Form1.resources
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\fInfo.Resources.resources
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\fInfo.exe
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\fInfo.xml
+E:\REPOSITORY\fInfo\fahInfo\obj\x86\Release\fInfo.pdb

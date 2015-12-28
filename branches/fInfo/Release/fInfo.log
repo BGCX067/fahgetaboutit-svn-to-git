@@ -1,0 +1,672 @@
+
+[5/26/2011] - 12:38:54 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 12:38:54 AM - Searching for configuration file.
+[5/26/2011] - 12:38:54 AM - Reading Config.xml file.
+[5/26/2011] - 12:38:54 AM - Generating detected pciID list.
+[5/26/2011] - 12:39:06 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 12:39:06 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 12:39:07 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 12:39:07 AM - Gpgpu detection started
+[5/26/2011] - 12:39:08 AM - openCL detected!
+[5/26/2011] - 12:39:08 AM - CUDA detected!
+[5/26/2011] - 12:39:08 AM - CAL detected!
+[5/26/2011] - 12:39:08 AM - Getting environment information:
+[5/26/2011] - 12:39:08 AM - Administrator rights detected.
+[5/26/2011] - 12:39:08 AM - Platform: Windows7
+[5/26/2011] - 12:39:08 AM - Connecting to local client.
+[5/26/2011] - 12:39:09 AM - Initialing project info
+[5/26/2011] - 12:39:09 AM - Initializing database access.
+[5/26/2011] - 12:39:53 AM - Project list is empty, trying to update
+[5/26/2011] - 12:40:00 AM - Projects updated succesfully
+[5/26/2011] - 12:40:04 AM - Updating client info to database: True
+[5/26/2011] - 12:40:04 AM - Updating client options to database: True
+[5/26/2011] - 12:40:04 AM - Updating client queue to database: True
+[5/26/2011] - 12:40:04 AM - Updating client slots to database: True
+[5/26/2011] - 12:41:15 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:15 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:15 AM -  - Err.description: SQLite error
+no such table: Hardware_ATI0
+[5/26/2011] - 12:41:15 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.UpdateHardware(cHWInfo hwInf)
+[5/26/2011] - 12:41:15 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.UpdateHardware(cHWInfo hwInf)
+[5/26/2011] - 12:41:15 AM - Data access succesfull.
+[5/26/2011] - 12:41:21 AM - Applying new settings.
+[5/26/2011] - 12:41:23 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 12:41:23 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 12:41:24 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:24 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:24 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:24 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:24 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:24 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:24 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:24 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:24 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:24 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:24 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:24 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:24 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:24 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:25 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:25 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:25 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:25 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:25 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:25 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:25 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:25 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:25 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:25 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:25 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:25 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:25 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:26 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:26 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:26 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:26 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:26 AM -  - Err.description: SQLite error
+no such table: SensorEventData_ATI0
+[5/26/2011] - 12:41:26 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:26 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:26 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:26 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM - Error at System.Data.SQLite
+[5/26/2011] - 12:41:26 AM -  - Err.source: System.Data.SQLite Line: 0 - Err.number : 5
+[5/26/2011] - 12:41:26 AM -  - Err.description: SQLite error
+no such table: SensorEventData_NVIDIA0
+[5/26/2011] - 12:41:26 AM -  - stacktrace:    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:26 AM -  -    bij System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   bij System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   bij System.Data.SQLite.SQLiteCommand.GetStatement(Int32 index)
+   bij System.Data.SQLite.SQLiteDataReader.NextResult()
+   bij System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   bij System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()
+   bij Data.Data.Update(ohmSensors OhmSensor)
+[5/26/2011] - 12:41:27 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 12:41:27 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 12:41:27 AM - Closing database connection.
+[5/26/2011] - 12:41:27 AM - Closing down application settings container.
+[5/26/2011] - 12:41:27 AM - Closing control form.
+[5/26/2011] - 12:41:27 AM - Closing control class
+[5/26/2011] - 12:41:27 AM - Closing down application.
+[5/26/2011] - 12:41:27 AM - Closing logging class
+
+[5/26/2011] - 12:41:41 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 12:41:41 AM - Searching for configuration file.
+[5/26/2011] - 12:41:41 AM - Reading Config.xml file.
+[5/26/2011] - 12:41:41 AM - Generating detected pciID list.
+[5/26/2011] - 12:41:48 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 12:41:48 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 12:41:49 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 12:41:49 AM - Gpgpu detection started
+[5/26/2011] - 12:41:50 AM - openCL detected!
+[5/26/2011] - 12:41:50 AM - CUDA detected!
+[5/26/2011] - 12:41:50 AM - CAL detected!
+[5/26/2011] - 12:41:50 AM - Getting environment information:
+[5/26/2011] - 12:41:50 AM - Administrator rights detected.
+[5/26/2011] - 12:41:50 AM - Platform: Windows7
+[5/26/2011] - 12:41:50 AM - Connecting to local client.
+[5/26/2011] - 12:41:51 AM - Initialing project info
+[5/26/2011] - 12:41:51 AM - Initializing database access.
+[5/26/2011] - 12:41:57 AM - Project list is empty, trying to update
+[5/26/2011] - 12:42:04 AM - Projects updated succesfully
+[5/26/2011] - 12:42:07 AM - Updating client info to database: True
+[5/26/2011] - 12:42:08 AM - Updating client options to database: True
+[5/26/2011] - 12:42:08 AM - Updating client queue to database: True
+[5/26/2011] - 12:42:08 AM - Updating client slots to database: True
+
+[5/26/2011] - 12:43:49 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 12:43:49 AM - Searching for configuration file.
+[5/26/2011] - 12:43:49 AM - Reading Config.xml file.
+[5/26/2011] - 12:43:49 AM - Generating detected pciID list.
+[5/26/2011] - 12:43:55 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 12:43:55 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 12:43:56 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 12:43:56 AM - Gpgpu detection started
+[5/26/2011] - 12:43:57 AM - openCL detected!
+[5/26/2011] - 12:43:57 AM - CUDA detected!
+[5/26/2011] - 12:43:57 AM - CAL detected!
+[5/26/2011] - 12:43:57 AM - Getting environment information:
+[5/26/2011] - 12:43:57 AM - Administrator rights detected.
+[5/26/2011] - 12:43:57 AM - Platform: Windows7
+[5/26/2011] - 12:43:57 AM - Connecting to local client.
+[5/26/2011] - 12:43:57 AM - Initialing project info
+[5/26/2011] - 12:43:57 AM - Initializing database access.
+[5/26/2011] - 12:44:08 AM - Project list is empty, trying to update
+[5/26/2011] - 12:44:15 AM - Projects updated succesfully
+[5/26/2011] - 12:44:31 AM - Updating client info to database: True
+[5/26/2011] - 12:44:31 AM - Updating client options to database: True
+[5/26/2011] - 12:44:31 AM - Updating client queue to database: True
+[5/26/2011] - 12:44:31 AM - Updating client slots to database: True
+[5/26/2011] - 12:45:56 AM - Data access succesfull.
+[5/26/2011] - 12:45:56 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 12:45:56 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 12:46:01 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 12:46:01 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 12:46:36 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:36 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:46:36 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:36 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:36 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:38 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:38 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:46:38 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:38 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:38 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:42 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:42 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:46:42 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:42 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:42 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:43 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:43 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:46:43 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:46:43 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:46:43 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e) in E:\REPOSITORY\fInfo\fInfo\frmPBList.vb:regel 155
+[5/26/2011] - 12:48:15 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:48:15 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:48:16 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:48:16 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:48:16 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:48:27 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:48:27 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:48:27 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:48:27 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:48:27 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:11 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:11 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:49:11 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:11 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:11 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:20 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:20 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:49:20 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:20 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:20 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:23 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:23 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:49:23 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:49:23 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:49:23 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:50:37 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:50:37 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:50:37 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:50:37 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:50:37 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:50:50 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:50:50 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:50:50 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:50:50 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:50:50 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:51:12 AM - Error at InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:51:12 AM -  - Err.source: System.Windows.Forms Line: 0 - Err.number : 5
+[5/26/2011] - 12:51:12 AM -  - Err.description: InvalidArgument=Waarde van 0 is niet geldig voor index.
+Parameternaam: index
+[5/26/2011] - 12:51:12 AM -  - stacktrace:    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+[5/26/2011] - 12:51:12 AM -  -    bij System.Windows.Forms.ListView.SelectedListViewItemCollection.get_Item(Int32 index)
+   bij fInfo.frmPBList.lvProjects_SelectedIndexChanged(Object sender, EventArgs e)
+
+[5/26/2011] - 12:55:31 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 12:55:32 AM - Searching for configuration file.
+[5/26/2011] - 12:55:32 AM - Reading Config.xml file.
+[5/26/2011] - 12:55:32 AM - Generating detected pciID list.
+[5/26/2011] - 12:55:48 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 12:55:48 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 12:55:50 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 12:55:50 AM - Gpgpu detection started
+[5/26/2011] - 12:55:51 AM - openCL detected!
+[5/26/2011] - 12:55:51 AM - CUDA detected!
+[5/26/2011] - 12:55:51 AM - CAL detected!
+[5/26/2011] - 12:55:51 AM - Getting environment information:
+[5/26/2011] - 12:55:51 AM - Administrator rights detected.
+[5/26/2011] - 12:55:52 AM - Platform: Windows7
+[5/26/2011] - 12:55:52 AM - Connecting to local client.
+[5/26/2011] - 12:55:55 AM - Initialing project info
+[5/26/2011] - 12:55:55 AM - Initializing database access.
+[5/26/2011] - 12:56:28 AM - Project list loaded, known projects: 285
+[5/26/2011] - 12:56:38 AM - Data access succesfull.
+[5/26/2011] - 12:56:38 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 12:56:38 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 1:01:11 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 1:01:11 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 1:01:11 AM - Closing database connection.
+[5/26/2011] - 1:01:11 AM - Closing down application settings container.
+[5/26/2011] - 1:01:11 AM - Closing control form.
+[5/26/2011] - 1:01:11 AM - Closing control class
+[5/26/2011] - 1:01:11 AM - Closing down application.
+[5/26/2011] - 1:01:11 AM - Closing logging class
+
+[5/26/2011] - 1:02:40 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 1:02:40 AM - Searching for configuration file.
+[5/26/2011] - 1:02:40 AM - Reading Config.xml file.
+[5/26/2011] - 1:02:40 AM - Generating detected pciID list.
+[5/26/2011] - 1:02:45 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 1:02:45 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 1:02:47 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 1:02:47 AM - Gpgpu detection started
+[5/26/2011] - 1:02:48 AM - openCL detected!
+[5/26/2011] - 1:02:48 AM - CUDA detected!
+[5/26/2011] - 1:02:48 AM - CAL detected!
+[5/26/2011] - 1:02:48 AM - Getting environment information:
+[5/26/2011] - 1:02:48 AM - Administrator rights detected.
+[5/26/2011] - 1:02:48 AM - Platform: Windows7
+[5/26/2011] - 1:02:48 AM - Connecting to local client.
+[5/26/2011] - 1:02:48 AM - Initialing project info
+[5/26/2011] - 1:02:48 AM - Initializing database access.
+[5/26/2011] - 1:03:00 AM - Project list loaded, known projects: 285
+[5/26/2011] - 1:03:00 AM - Updating client info to database: True
+[5/26/2011] - 1:03:00 AM - Updating client options to database: True
+[5/26/2011] - 1:03:00 AM - Updating client queue to database: True
+[5/26/2011] - 1:03:00 AM - Updating client slots to database: True
+[5/26/2011] - 1:03:09 AM - Data access succesfull.
+[5/26/2011] - 1:03:09 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 1:03:09 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 1:03:24 AM - FAHClient slots changed and saved to database
+[5/26/2011] - 1:03:24 AM - FAHClient slots changed and saved to database
+[5/26/2011] - 1:03:44 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 1:04:00 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 1:04:00 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 1:04:00 AM - Closing database connection.
+[5/26/2011] - 1:04:00 AM - Closing down application settings container.
+[5/26/2011] - 1:04:00 AM - Closing control form.
+[5/26/2011] - 1:04:00 AM - Closing control class
+[5/26/2011] - 1:04:00 AM - Closing down application.
+[5/26/2011] - 1:04:00 AM - Closing logging class
+
+[5/26/2011] - 1:05:51 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 1:05:51 AM - Searching for configuration file.
+[5/26/2011] - 1:05:51 AM - Reading Config.xml file.
+[5/26/2011] - 1:05:51 AM - Generating detected pciID list.
+[5/26/2011] - 1:06:00 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 1:06:00 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 1:06:03 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 1:06:03 AM - Gpgpu detection started
+[5/26/2011] - 1:06:04 AM - openCL detected!
+[5/26/2011] - 1:06:04 AM - CUDA detected!
+[5/26/2011] - 1:06:04 AM - CAL detected!
+[5/26/2011] - 1:06:04 AM - Getting environment information:
+[5/26/2011] - 1:06:04 AM - Administrator rights detected.
+[5/26/2011] - 1:06:04 AM - Platform: Windows7
+[5/26/2011] - 1:06:04 AM - Connecting to local client.
+[5/26/2011] - 1:06:04 AM - Initialing project info
+[5/26/2011] - 1:06:04 AM - Initializing database access.
+[5/26/2011] - 1:06:08 AM - Project list loaded, known projects: 285
+[5/26/2011] - 1:06:08 AM - Updating client info to database: True
+[5/26/2011] - 1:06:08 AM - Updating client options to database: True
+[5/26/2011] - 1:06:08 AM - Updating client queue to database: True
+[5/26/2011] - 1:06:08 AM - Updating client slots to database: True
+[5/26/2011] - 1:06:19 AM - Data access succesfull.
+[5/26/2011] - 1:06:19 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 1:06:19 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 1:06:24 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 1:08:06 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 1:08:06 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 1:08:06 AM - Closing database connection.
+[5/26/2011] - 1:08:06 AM - Closing down application settings container.
+[5/26/2011] - 1:08:06 AM - Closing control form.
+[5/26/2011] - 1:08:06 AM - Closing control class
+[5/26/2011] - 1:08:06 AM - Closing down application.
+[5/26/2011] - 1:08:06 AM - Closing logging class
+
+[5/26/2011] - 1:15:14 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 1:15:14 AM - Searching for configuration file.
+[5/26/2011] - 1:15:14 AM - Reading Config.xml file.
+[5/26/2011] - 1:15:14 AM - Generating detected pciID list.
+[5/26/2011] - 1:15:23 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 1:15:23 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 1:15:25 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 1:15:25 AM - Gpgpu detection started
+[5/26/2011] - 1:15:26 AM - openCL detected!
+[5/26/2011] - 1:15:26 AM - CUDA detected!
+[5/26/2011] - 1:15:26 AM - CAL detected!
+[5/26/2011] - 1:15:26 AM - Getting environment information:
+[5/26/2011] - 1:15:26 AM - Administrator rights detected.
+[5/26/2011] - 1:15:26 AM - Platform: Windows7
+[5/26/2011] - 1:15:26 AM - Connecting to local client.
+[5/26/2011] - 1:15:27 AM - Initialing project info
+[5/26/2011] - 1:15:27 AM - Initializing database access.
+[5/26/2011] - 1:17:37 AM - Project list loaded, known projects: 285
+[5/26/2011] - 1:17:38 AM - Updating client info to database: True
+[5/26/2011] - 1:17:38 AM - Updating client options to database: True
+[5/26/2011] - 1:17:38 AM - Updating client queue to database: True
+[5/26/2011] - 1:17:38 AM - Updating client slots to database: True
+[5/26/2011] - 1:18:22 AM - Data access succesfull.
+[5/26/2011] - 1:18:22 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 1:18:22 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 1:18:27 AM - Client disconnected!
+[5/26/2011] - 1:18:27 AM - Automation enabeld, will retry connection with 1 minute intervals.
+[5/26/2011] - 1:18:27 AM - Retrying connection with local client.
+[5/26/2011] - 1:18:27 AM - Attempt to reconnect succesfull
+[5/26/2011] - 1:18:32 AM - Client disconnected!
+[5/26/2011] - 1:18:32 AM - Automation enabeld, will retry connection with 1 minute intervals.
+[5/26/2011] - 1:18:32 AM - Retrying connection with local client.
+[5/26/2011] - 1:18:32 AM - Attempt to reconnect succesfull
+[5/26/2011] - 1:18:37 AM - Client disconnected!
+[5/26/2011] - 1:18:37 AM - Automation enabeld, will retry connection with 1 minute intervals.
+[5/26/2011] - 1:18:37 AM - Retrying connection with local client.
+[5/26/2011] - 1:18:37 AM - Attempt to reconnect succesfull
+[5/26/2011] - 1:18:42 AM - Client disconnected!
+[5/26/2011] - 1:18:42 AM - Automation enabeld, will retry connection with 1 minute intervals.
+[5/26/2011] - 1:18:42 AM - Retrying connection with local client.
+[5/26/2011] - 1:18:42 AM - Attempt to reconnect succesfull
+[5/26/2011] - 1:18:45 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 1:18:45 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 1:18:45 AM - Closing database connection.
+[5/26/2011] - 1:18:45 AM - Closing down application settings container.
+[5/26/2011] - 1:18:45 AM - Closing control form.
+[5/26/2011] - 1:18:45 AM - Closing control class
+[5/26/2011] - 1:18:45 AM - Closing down application.
+[5/26/2011] - 1:18:45 AM - Closing logging class
+
+[5/26/2011] - 1:19:10 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 1:19:10 AM - Searching for configuration file.
+[5/26/2011] - 1:19:10 AM - Reading Config.xml file.
+[5/26/2011] - 1:19:10 AM - Generating detected pciID list.
+[5/26/2011] - 1:19:18 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 1:19:18 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 1:19:19 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 1:19:19 AM - Gpgpu detection started
+[5/26/2011] - 1:19:20 AM - openCL detected!
+[5/26/2011] - 1:19:20 AM - CUDA detected!
+[5/26/2011] - 1:19:20 AM - CAL detected!
+[5/26/2011] - 1:19:20 AM - Getting environment information:
+[5/26/2011] - 1:19:20 AM - Administrator rights detected.
+[5/26/2011] - 1:19:20 AM - Platform: Windows7
+[5/26/2011] - 1:19:20 AM - Connecting to local client.
+[5/26/2011] - 1:19:21 AM - Initialing project info
+[5/26/2011] - 1:19:21 AM - Initializing database access.
+
+[5/26/2011] - 1:19:54 AM - fInfo 1.0.0.0 logging started
+
+[5/26/2011] - 1:19:55 AM - Searching for configuration file.
+[5/26/2011] - 1:19:55 AM - Reading Config.xml file.
+[5/26/2011] - 1:19:55 AM - Generating detected pciID list.
+[5/26/2011] - 1:19:59 AM - Accesing OpenHardwareMonitorLib.dll.
+[5/26/2011] - 1:19:59 AM - OpenHardwareMonitorLib interface started
+[5/26/2011] - 1:20:01 AM - OpenHardwareMonitorLib succesfully reported hardware
+[5/26/2011] - 1:20:01 AM - Gpgpu detection started
+[5/26/2011] - 1:20:02 AM - openCL detected!
+[5/26/2011] - 1:20:02 AM - CUDA detected!
+[5/26/2011] - 1:20:02 AM - CAL detected!
+[5/26/2011] - 1:20:02 AM - Getting environment information:
+[5/26/2011] - 1:20:02 AM - Administrator rights detected.
+[5/26/2011] - 1:20:02 AM - Platform: Windows7
+[5/26/2011] - 1:20:02 AM - Connecting to local client.
+[5/26/2011] - 1:20:03 AM - Initialing project info
+[5/26/2011] - 1:20:03 AM - Initializing database access.
+[5/26/2011] - 1:27:27 AM - Project list loaded, known projects: 285
+[5/26/2011] - 1:27:28 AM - Updating client info to database: True
+[5/26/2011] - 1:27:28 AM - Updating client options to database: True
+[5/26/2011] - 1:27:28 AM - Updating client queue to database: True
+[5/26/2011] - 1:27:28 AM - Updating client slots to database: True
+[5/26/2011] - 1:27:33 AM - Data access succesfull.
+[5/26/2011] - 1:27:33 AM - Application startup completed, monitoring will commence with stored values
+[5/26/2011] - 1:27:33 AM - Setting hardware update timer to 1000ms.
+[5/26/2011] - 1:27:38 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 1:33:35 AM - FAHClient queue changed and saved to database
+[5/26/2011] - 1:34:14 AM - Closing OpenHardwareMonitorLib.
+[5/26/2011] - 1:34:14 AM - Setting hardware update timer to 0 ( disabeld ).
+[5/26/2011] - 1:34:14 AM - Closing database connection.
+[5/26/2011] - 1:34:14 AM - Closing down application settings container.
+[5/26/2011] - 1:34:14 AM - Closing control form.
+[5/26/2011] - 1:34:14 AM - Closing control class
+[5/26/2011] - 1:34:14 AM - Closing down application.
+[5/26/2011] - 1:34:14 AM - Closing logging class

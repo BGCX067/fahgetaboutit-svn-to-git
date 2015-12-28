@@ -1,0 +1,10 @@
+E:\REPOSITORY\fInfo\Release\gpuInfo.dll
+E:\REPOSITORY\fInfo\Release\gpuInfo.pdb
+E:\REPOSITORY\fInfo\Release\gpuInfo.xml
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\gpuInfo.Resources.resources
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\gpuInfo.dll
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\gpuInfo.xml
+E:\REPOSITORY\fInfo\GpuInfo\obj\Debug\gpuInfo.pdb

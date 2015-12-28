@@ -1,0 +1,26 @@
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x86\Debug\Data.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x86\Debug\Data.pdb
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x86\Debug\Data.xml
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\Data.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\Data.xml
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\Data.pdb
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x86\Debug\Data.Resources.resources
+E:\REPOSITORY\fInfo\Release\Data.dll
+E:\REPOSITORY\fInfo\Release\Data.pdb
+E:\REPOSITORY\fInfo\Release\Data.xml
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\Data.Resources.resources
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\Data.dll
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\Data.xml
+E:\REPOSITORY\fInfo\Data\obj\x86\Debug\Data.pdb
+E:\REPOSITORY\fInfo\Release\WinRing0.dll
+E:\REPOSITORY\fInfo\Release\WinRing0x64.dll
+E:\REPOSITORY\fInfo\Release\WinRing0.sys
+E:\REPOSITORY\fInfo\Release\WinRing0x64.sys
+E:\REPOSITORY\fInfo\Release\OpenHardwareMonitorLib.dll

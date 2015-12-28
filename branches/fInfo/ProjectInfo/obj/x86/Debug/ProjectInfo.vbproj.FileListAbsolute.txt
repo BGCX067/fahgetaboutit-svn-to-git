@@ -1,0 +1,11 @@
+E:\REPOSITORY\fInfo\ProjectInfo\bin\x86\Debug\ProjectInfo.dll
+E:\REPOSITORY\fInfo\ProjectInfo\bin\x86\Debug\ProjectInfo.pdb
+E:\REPOSITORY\fInfo\ProjectInfo\bin\x86\Debug\ProjectInfo.xml
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ProjectInfo.frmPBStatus.resources
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ProjectInfo.Resources.resources
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ProjectInfo.dll
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ProjectInfo.xml
+E:\REPOSITORY\fInfo\ProjectInfo\obj\x86\Debug\ProjectInfo.pdb

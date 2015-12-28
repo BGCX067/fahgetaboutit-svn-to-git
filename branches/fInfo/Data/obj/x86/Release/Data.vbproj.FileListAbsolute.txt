@@ -1,0 +1,14 @@
+E:\REPOSITORY\fInfo\Data\bin\x86\Release\Data.dll
+E:\REPOSITORY\fInfo\Data\bin\x86\Release\Data.pdb
+E:\REPOSITORY\fInfo\Data\bin\x86\Release\Data.xml
+E:\REPOSITORY\fInfo\Data\bin\x86\Release\System.Data.SQLite.dll
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\Data.Resources.resources
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\Data.dll
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\Data.xml
+E:\REPOSITORY\fInfo\Data\obj\x86\Release\Data.pdb
+E:\REPOSITORY\fInfo\Release\Data.dll
+E:\REPOSITORY\fInfo\Release\Data.pdb
+E:\REPOSITORY\fInfo\Release\Data.xml

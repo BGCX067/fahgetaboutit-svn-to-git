@@ -1,0 +1,47 @@
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x64\Debug\Data.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x64\Debug\Data.pdb
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x64\Debug\Data.xml
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\Data.Resources.resources
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\ResGen.read.1.tlog
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\ResGen.write.1.tlog
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\Data.dll
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\Data.xml
+C:\Users\Huiskamer\documents\visual studio 2010\Projects\fahInfo\Data\obj\x64\Debug\Data.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\OpenHardwareMonitorLib.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\WinRing0.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\WinRing0x64.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\WinRing0.sys
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\WinRing0x64.sys
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Data.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Data.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Data.xml
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\FAHInterface.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\gpuInfo.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\HWInfo.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\System.Data.SQLite.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Newtonsoft.Json.Net35.dll
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\FAHInterface.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\FAHInterface.xml
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\gpuInfo.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\gpuInfo.xml
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\HWInfo.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\HWInfo.xml
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Newtonsoft.Json.Net35.pdb
+E:\REPOSITORY\fInfo\Data\bin\x64\Debug\Newtonsoft.Json.Net35.xml
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\Data.Resources.resources
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\Data.dll
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\Data.xml
+E:\REPOSITORY\fInfo\Data\obj\x64\Debug\Data.pdb
+E:\REPOSITORY\fInfo\Release\WinRing0.dll
+E:\REPOSITORY\fInfo\Release\WinRing0x64.dll
+E:\REPOSITORY\fInfo\Release\WinRing0.sys
+E:\REPOSITORY\fInfo\Release\WinRing0x64.sys
+E:\REPOSITORY\fInfo\Release\OpenHardwareMonitorLib.dll
+E:\REPOSITORY\fInfo\Release\Data.dll
+E:\REPOSITORY\fInfo\Release\Data.pdb
+E:\REPOSITORY\fInfo\Release\Data.xml

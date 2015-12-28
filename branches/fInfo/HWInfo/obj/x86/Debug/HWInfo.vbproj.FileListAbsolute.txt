@@ -1,0 +1,15 @@
+E:\REPOSITORY\fInfo\Release\HWInfo.dll
+E:\REPOSITORY\fInfo\Release\HWInfo.pdb
+E:\REPOSITORY\fInfo\Release\HWInfo.xml
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\HWInfo.Resources.resources
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\ResGen.read.1.tlog
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\ResGen.write.1.tlog
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\HWInfo.dll
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\HWInfo.xml
+E:\REPOSITORY\fInfo\HWInfo\obj\x86\Debug\HWInfo.pdb
+E:\REPOSITORY\fInfo\Release\WinRing0.dll
+E:\REPOSITORY\fInfo\Release\WinRing0x64.dll
+E:\REPOSITORY\fInfo\Release\WinRing0.sys
+E:\REPOSITORY\fInfo\Release\WinRing0x64.sys
+E:\REPOSITORY\fInfo\Release\OpenHardwareMonitorLib.dll
